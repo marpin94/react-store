@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/marpin94/react-store/static/css/main.960cd510.chunk.css",
+    "main.js": "/marpin94/react-store/static/js/main.f59e371c.chunk.js",
+    "main.js.map": "/marpin94/react-store/static/js/main.f59e371c.chunk.js.map",
+    "runtime-main.js": "/marpin94/react-store/static/js/runtime-main.4114c4c8.js",
+    "runtime-main.js.map": "/marpin94/react-store/static/js/runtime-main.4114c4c8.js.map",
+    "static/css/2.43b2b750.chunk.css": "/marpin94/react-store/static/css/2.43b2b750.chunk.css",
+    "static/js/2.90abd146.chunk.js": "/marpin94/react-store/static/js/2.90abd146.chunk.js",
+    "static/js/2.90abd146.chunk.js.map": "/marpin94/react-store/static/js/2.90abd146.chunk.js.map",
+    "index.html": "/marpin94/react-store/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/marpin94/react-store/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.960cd510.chunk.css.map": "/marpin94/react-store/static/css/main.960cd510.chunk.css.map",
+    "static/js/2.90abd146.chunk.js.LICENSE.txt": "/marpin94/react-store/static/js/2.90abd146.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/marpin94/react-store/static/media/main-background.d558e303.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4114c4c8.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.90abd146.chunk.js",
+    "static/css/main.960cd510.chunk.css",
+    "static/js/main.f59e371c.chunk.js"
+  ]
+}
