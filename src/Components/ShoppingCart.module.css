@@ -1,0 +1,16 @@
+/* Shopping Cart Style */
+
+
+.main {
+    font-family: 'Source Sans Pro', sans-serif;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px; 
+}
+
+.text{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+}
