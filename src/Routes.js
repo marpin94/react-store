@@ -35,13 +35,12 @@ export const Routes = () => {
     <>
         <BrowserRouter >
         <Nav cart={cart} />
-     
             <Switch>
                 <Route exact path="/" component={App} />
-                <Route exact path="/store">
+                <Route path="/store">
                     <Store addItem={addItem} />
                 </Route>
-                <Route exact path='/ShoppingCart'>
+                <Route path='/ShoppingCart'>
                     <ShoppingCart cart={cart} removeItem={removeItem} setCart={setCart} changeQty={changeQty}  />
                 </Route>
                 <Route path = '/store/:id' 
